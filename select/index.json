@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "忘れ物",
+  "base_artist": "Vaundy",
+  "createdAt": "2026-02-28T05:32:28.155414Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "忘れ物",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/01_忘れ物_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "忘れ物 - wasuremono",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/02_忘れ物_-_wasuremono_Vaundy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "忘れ物",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/pl_01_忘れ物_Vaundy.txt"
+    }
+  ]
+}
